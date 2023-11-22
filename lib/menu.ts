@@ -20,7 +20,7 @@ export interface CustomMenuOverlayStrings extends MenuOverlayStrings {
 }
 
 // Excluded category IDs
-const excludedCategoryIds = [13944079089181, 13944233131293];
+const excludedCategoryIds = [13944079089181];
 
 export function getFooterItems(
   strings: CustomMenuOverlayStrings,
